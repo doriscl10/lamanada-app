@@ -147,7 +147,7 @@ function CounterPage() {
         </div>
         {/* Firma */}
         <footer className="absolute bottom-2 left-0 w-full text-center">
-          <p className="text-[8px] tracking-wider text-white/50">
+          <p className="text-[12px] tracking-wider text-white/50">
             Desarrollado con <span className="text-[#FF00BF]">♥</span> por{" "}
             <span className="font-bold text-white/70">DORIS CONDORI</span>
           </p>
